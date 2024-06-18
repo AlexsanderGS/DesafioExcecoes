@@ -1,3 +1,5 @@
+import br.com.alura.excecoes.SenhaInvalidaException;
+
 import java.util.Scanner;
 
 public class Senha {
